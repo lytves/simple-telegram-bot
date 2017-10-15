@@ -31,7 +31,7 @@ public class SimpleChatBot extends TelegramLongPollingBot{
 
     @Override
     public String getBotToken() {
-        // // your bot's token
+        // your bot's token
         return "your bot's token";
     }
 
